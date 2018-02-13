@@ -1,0 +1,206 @@
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\shanuMVCUserRoles\bin\roslyn\csc.exe
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\shanuMVCUserRoles\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\shanuMVCUserRoles\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\shanuMVCUserRoles\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\shanuMVCUserRoles\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\shanuMVCUserRoles\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\shanuMVCUserRoles\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\shanuMVCUserRoles\bin\roslyn\System.Collections.Immutable.dll
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\shanuMVCUserRoles\bin\roslyn\System.Reflection.Metadata.dll
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\shanuMVCUserRoles\bin\roslyn\vbc.exe
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\shanuMVCUserRoles\bin\roslyn\VBCSCompiler.exe
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\shanuMVCUserRoles\bin\roslyn\VBCSCompiler.exe.config
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\shanuMVCUserRoles\bin\shanuMVCUserRoles.dll.config
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\shanuMVCUserRoles\bin\shanuMVCUserRoles.dll
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\shanuMVCUserRoles\bin\shanuMVCUserRoles.pdb
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\shanuMVCUserRoles\bin\Antlr3.Runtime.dll
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\shanuMVCUserRoles\bin\EntityFramework.dll
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\shanuMVCUserRoles\bin\EntityFramework.SqlServer.dll
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\shanuMVCUserRoles\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\shanuMVCUserRoles\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\shanuMVCUserRoles\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\shanuMVCUserRoles\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\shanuMVCUserRoles\bin\Microsoft.Owin.dll
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\shanuMVCUserRoles\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\shanuMVCUserRoles\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\shanuMVCUserRoles\bin\Microsoft.Owin.Security.dll
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\shanuMVCUserRoles\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\shanuMVCUserRoles\bin\Microsoft.Owin.Security.Google.dll
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\shanuMVCUserRoles\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\shanuMVCUserRoles\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\shanuMVCUserRoles\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\shanuMVCUserRoles\bin\Microsoft.Web.Infrastructure.dll
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\shanuMVCUserRoles\bin\Newtonsoft.Json.dll
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\shanuMVCUserRoles\bin\Owin.dll
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\shanuMVCUserRoles\bin\System.Web.Helpers.dll
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\shanuMVCUserRoles\bin\System.Web.Mvc.dll
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\shanuMVCUserRoles\bin\System.Web.Optimization.dll
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\shanuMVCUserRoles\bin\System.Web.Razor.dll
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\shanuMVCUserRoles\bin\System.Web.WebPages.Deployment.dll
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\shanuMVCUserRoles\bin\System.Web.WebPages.dll
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\shanuMVCUserRoles\bin\System.Web.WebPages.Razor.dll
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\shanuMVCUserRoles\bin\WebGrease.dll
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\shanuMVCUserRoles\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\shanuMVCUserRoles\bin\System.Web.Helpers.xml
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\shanuMVCUserRoles\bin\System.Web.Mvc.xml
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\shanuMVCUserRoles\bin\System.Web.Optimization.xml
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\shanuMVCUserRoles\bin\System.Web.Razor.xml
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\shanuMVCUserRoles\bin\System.Web.WebPages.xml
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\shanuMVCUserRoles\bin\System.Web.WebPages.Deployment.xml
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\shanuMVCUserRoles\bin\System.Web.WebPages.Razor.xml
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\shanuMVCUserRoles\bin\Antlr3.Runtime.pdb
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\shanuMVCUserRoles\bin\Newtonsoft.Json.xml
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\shanuMVCUserRoles\bin\EntityFramework.xml
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\shanuMVCUserRoles\bin\EntityFramework.SqlServer.xml
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\shanuMVCUserRoles\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\shanuMVCUserRoles\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\shanuMVCUserRoles\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\shanuMVCUserRoles\bin\Microsoft.Owin.xml
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\shanuMVCUserRoles\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\shanuMVCUserRoles\bin\Microsoft.Owin.Security.xml
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\shanuMVCUserRoles\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\shanuMVCUserRoles\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\shanuMVCUserRoles\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\shanuMVCUserRoles\bin\Microsoft.Owin.Security.Google.xml
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\shanuMVCUserRoles\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\shanuMVCUserRoles\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\shanuMVCUserRoles\obj\Debug\shanuMVCUserRoles.dll
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\shanuMVCUserRoles\obj\Debug\shanuMVCUserRoles.pdb
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\WebNTRAppCore\bin\roslyn\csc.exe
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\WebNTRAppCore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\WebNTRAppCore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\WebNTRAppCore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\WebNTRAppCore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\WebNTRAppCore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\WebNTRAppCore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\WebNTRAppCore\bin\roslyn\System.Collections.Immutable.dll
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\WebNTRAppCore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\WebNTRAppCore\bin\roslyn\vbc.exe
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\WebNTRAppCore\bin\roslyn\VBCSCompiler.exe
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\WebNTRAppCore\bin\roslyn\VBCSCompiler.exe.config
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\WebNTRAppCore\bin\Antlr3.Runtime.dll
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\WebNTRAppCore\bin\EntityFramework.dll
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\WebNTRAppCore\bin\EntityFramework.SqlServer.dll
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\WebNTRAppCore\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\WebNTRAppCore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\WebNTRAppCore\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\WebNTRAppCore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\WebNTRAppCore\bin\Microsoft.Owin.dll
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\WebNTRAppCore\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\WebNTRAppCore\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\WebNTRAppCore\bin\Microsoft.Owin.Security.dll
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\WebNTRAppCore\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\WebNTRAppCore\bin\Microsoft.Owin.Security.Google.dll
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\WebNTRAppCore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\WebNTRAppCore\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\WebNTRAppCore\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\WebNTRAppCore\bin\Microsoft.Web.Infrastructure.dll
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\WebNTRAppCore\bin\Newtonsoft.Json.dll
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\WebNTRAppCore\bin\Owin.dll
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\WebNTRAppCore\bin\System.Web.Helpers.dll
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\WebNTRAppCore\bin\System.Web.Mvc.dll
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\WebNTRAppCore\bin\System.Web.Optimization.dll
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\WebNTRAppCore\bin\System.Web.Razor.dll
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\WebNTRAppCore\bin\System.Web.WebPages.Deployment.dll
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\WebNTRAppCore\bin\System.Web.WebPages.dll
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\WebNTRAppCore\bin\System.Web.WebPages.Razor.dll
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\WebNTRAppCore\bin\WebGrease.dll
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\WebNTRAppCore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\WebNTRAppCore\bin\System.Web.Helpers.xml
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\WebNTRAppCore\bin\System.Web.Mvc.xml
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\WebNTRAppCore\bin\System.Web.Optimization.xml
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\WebNTRAppCore\bin\System.Web.Razor.xml
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\WebNTRAppCore\bin\System.Web.WebPages.xml
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\WebNTRAppCore\bin\System.Web.WebPages.Deployment.xml
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\WebNTRAppCore\bin\System.Web.WebPages.Razor.xml
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\WebNTRAppCore\bin\Antlr3.Runtime.pdb
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\WebNTRAppCore\bin\Newtonsoft.Json.xml
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\WebNTRAppCore\bin\EntityFramework.xml
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\WebNTRAppCore\bin\EntityFramework.SqlServer.xml
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\WebNTRAppCore\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\WebNTRAppCore\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\WebNTRAppCore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\WebNTRAppCore\bin\Microsoft.Owin.xml
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\WebNTRAppCore\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\WebNTRAppCore\bin\Microsoft.Owin.Security.xml
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\WebNTRAppCore\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\WebNTRAppCore\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\WebNTRAppCore\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\WebNTRAppCore\bin\Microsoft.Owin.Security.Google.xml
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\WebNTRAppCore\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\WebNTRAppCore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\WebNTRAppCore\obj\Debug\WebNTRAppCore.csprojResolveAssemblyReference.cache
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\WebNTRAppCore\bin\WebNTRAppCore.dll.config
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\WebNTRAppCore\bin\WebNTRAppCore.dll
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\WebNTRAppCore\bin\WebNTRAppCore.pdb
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\WebNTRAppCore\obj\Debug\WebNTRAppCore.dll
+C:\Projects\TranslationService\ASP.NET MVC 5 Security And Creating User Role\C#\WebNTRAppCore\obj\Debug\WebNTRAppCore.pdb
+C:\Projects\TranslationService\bitbucket\automated-tests\WebNTRApp\WebNTRAppCore\bin\roslyn\csc.exe
+C:\Projects\TranslationService\bitbucket\automated-tests\WebNTRApp\WebNTRAppCore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Projects\TranslationService\bitbucket\automated-tests\WebNTRApp\WebNTRAppCore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Projects\TranslationService\bitbucket\automated-tests\WebNTRApp\WebNTRAppCore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Projects\TranslationService\bitbucket\automated-tests\WebNTRApp\WebNTRAppCore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Projects\TranslationService\bitbucket\automated-tests\WebNTRApp\WebNTRAppCore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Projects\TranslationService\bitbucket\automated-tests\WebNTRApp\WebNTRAppCore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Projects\TranslationService\bitbucket\automated-tests\WebNTRApp\WebNTRAppCore\bin\roslyn\System.Collections.Immutable.dll
+C:\Projects\TranslationService\bitbucket\automated-tests\WebNTRApp\WebNTRAppCore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Projects\TranslationService\bitbucket\automated-tests\WebNTRApp\WebNTRAppCore\bin\roslyn\vbc.exe
+C:\Projects\TranslationService\bitbucket\automated-tests\WebNTRApp\WebNTRAppCore\bin\roslyn\VBCSCompiler.exe
+C:\Projects\TranslationService\bitbucket\automated-tests\WebNTRApp\WebNTRAppCore\bin\roslyn\VBCSCompiler.exe.config
+C:\Projects\TranslationService\bitbucket\automated-tests\WebNTRApp\WebNTRAppCore\bin\WebNTRAppCore.dll.config
+C:\Projects\TranslationService\bitbucket\automated-tests\WebNTRApp\WebNTRAppCore\bin\WebNTRAppCore.dll
+C:\Projects\TranslationService\bitbucket\automated-tests\WebNTRApp\WebNTRAppCore\bin\WebNTRAppCore.pdb
+C:\Projects\TranslationService\bitbucket\automated-tests\WebNTRApp\WebNTRAppCore\bin\Antlr3.Runtime.dll
+C:\Projects\TranslationService\bitbucket\automated-tests\WebNTRApp\WebNTRAppCore\bin\EntityFramework.dll
+C:\Projects\TranslationService\bitbucket\automated-tests\WebNTRApp\WebNTRAppCore\bin\EntityFramework.SqlServer.dll
+C:\Projects\TranslationService\bitbucket\automated-tests\WebNTRApp\WebNTRAppCore\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Projects\TranslationService\bitbucket\automated-tests\WebNTRApp\WebNTRAppCore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Projects\TranslationService\bitbucket\automated-tests\WebNTRApp\WebNTRAppCore\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Projects\TranslationService\bitbucket\automated-tests\WebNTRApp\WebNTRAppCore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Projects\TranslationService\bitbucket\automated-tests\WebNTRApp\WebNTRAppCore\bin\Microsoft.Owin.dll
+C:\Projects\TranslationService\bitbucket\automated-tests\WebNTRApp\WebNTRAppCore\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Projects\TranslationService\bitbucket\automated-tests\WebNTRApp\WebNTRAppCore\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Projects\TranslationService\bitbucket\automated-tests\WebNTRApp\WebNTRAppCore\bin\Microsoft.Owin.Security.dll
+C:\Projects\TranslationService\bitbucket\automated-tests\WebNTRApp\WebNTRAppCore\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Projects\TranslationService\bitbucket\automated-tests\WebNTRApp\WebNTRAppCore\bin\Microsoft.Owin.Security.Google.dll
+C:\Projects\TranslationService\bitbucket\automated-tests\WebNTRApp\WebNTRAppCore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Projects\TranslationService\bitbucket\automated-tests\WebNTRApp\WebNTRAppCore\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Projects\TranslationService\bitbucket\automated-tests\WebNTRApp\WebNTRAppCore\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Projects\TranslationService\bitbucket\automated-tests\WebNTRApp\WebNTRAppCore\bin\Microsoft.Web.Infrastructure.dll
+C:\Projects\TranslationService\bitbucket\automated-tests\WebNTRApp\WebNTRAppCore\bin\Newtonsoft.Json.dll
+C:\Projects\TranslationService\bitbucket\automated-tests\WebNTRApp\WebNTRAppCore\bin\Owin.dll
+C:\Projects\TranslationService\bitbucket\automated-tests\WebNTRApp\WebNTRAppCore\bin\System.Web.Helpers.dll
+C:\Projects\TranslationService\bitbucket\automated-tests\WebNTRApp\WebNTRAppCore\bin\System.Web.Mvc.dll
+C:\Projects\TranslationService\bitbucket\automated-tests\WebNTRApp\WebNTRAppCore\bin\System.Web.Optimization.dll
+C:\Projects\TranslationService\bitbucket\automated-tests\WebNTRApp\WebNTRAppCore\bin\System.Web.Razor.dll
+C:\Projects\TranslationService\bitbucket\automated-tests\WebNTRApp\WebNTRAppCore\bin\System.Web.WebPages.Deployment.dll
+C:\Projects\TranslationService\bitbucket\automated-tests\WebNTRApp\WebNTRAppCore\bin\System.Web.WebPages.dll
+C:\Projects\TranslationService\bitbucket\automated-tests\WebNTRApp\WebNTRAppCore\bin\System.Web.WebPages.Razor.dll
+C:\Projects\TranslationService\bitbucket\automated-tests\WebNTRApp\WebNTRAppCore\bin\WebGrease.dll
+C:\Projects\TranslationService\bitbucket\automated-tests\WebNTRApp\WebNTRAppCore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Projects\TranslationService\bitbucket\automated-tests\WebNTRApp\WebNTRAppCore\bin\System.Web.Helpers.xml
+C:\Projects\TranslationService\bitbucket\automated-tests\WebNTRApp\WebNTRAppCore\bin\System.Web.Mvc.xml
+C:\Projects\TranslationService\bitbucket\automated-tests\WebNTRApp\WebNTRAppCore\bin\System.Web.Optimization.xml
+C:\Projects\TranslationService\bitbucket\automated-tests\WebNTRApp\WebNTRAppCore\bin\System.Web.Razor.xml
+C:\Projects\TranslationService\bitbucket\automated-tests\WebNTRApp\WebNTRAppCore\bin\System.Web.WebPages.xml
+C:\Projects\TranslationService\bitbucket\automated-tests\WebNTRApp\WebNTRAppCore\bin\System.Web.WebPages.Deployment.xml
+C:\Projects\TranslationService\bitbucket\automated-tests\WebNTRApp\WebNTRAppCore\bin\System.Web.WebPages.Razor.xml
+C:\Projects\TranslationService\bitbucket\automated-tests\WebNTRApp\WebNTRAppCore\bin\Antlr3.Runtime.pdb
+C:\Projects\TranslationService\bitbucket\automated-tests\WebNTRApp\WebNTRAppCore\bin\Newtonsoft.Json.xml
+C:\Projects\TranslationService\bitbucket\automated-tests\WebNTRApp\WebNTRAppCore\bin\EntityFramework.xml
+C:\Projects\TranslationService\bitbucket\automated-tests\WebNTRApp\WebNTRAppCore\bin\EntityFramework.SqlServer.xml
+C:\Projects\TranslationService\bitbucket\automated-tests\WebNTRApp\WebNTRAppCore\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Projects\TranslationService\bitbucket\automated-tests\WebNTRApp\WebNTRAppCore\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Projects\TranslationService\bitbucket\automated-tests\WebNTRApp\WebNTRAppCore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Projects\TranslationService\bitbucket\automated-tests\WebNTRApp\WebNTRAppCore\bin\Microsoft.Owin.xml
+C:\Projects\TranslationService\bitbucket\automated-tests\WebNTRApp\WebNTRAppCore\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Projects\TranslationService\bitbucket\automated-tests\WebNTRApp\WebNTRAppCore\bin\Microsoft.Owin.Security.xml
+C:\Projects\TranslationService\bitbucket\automated-tests\WebNTRApp\WebNTRAppCore\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Projects\TranslationService\bitbucket\automated-tests\WebNTRApp\WebNTRAppCore\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Projects\TranslationService\bitbucket\automated-tests\WebNTRApp\WebNTRAppCore\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Projects\TranslationService\bitbucket\automated-tests\WebNTRApp\WebNTRAppCore\bin\Microsoft.Owin.Security.Google.xml
+C:\Projects\TranslationService\bitbucket\automated-tests\WebNTRApp\WebNTRAppCore\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Projects\TranslationService\bitbucket\automated-tests\WebNTRApp\WebNTRAppCore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Projects\TranslationService\bitbucket\automated-tests\WebNTRApp\WebNTRAppCore\obj\Debug\WebNTRAppCore.csprojResolveAssemblyReference.cache
+C:\Projects\TranslationService\bitbucket\automated-tests\WebNTRApp\WebNTRAppCore\obj\Debug\WebNTRAppCore.dll
+C:\Projects\TranslationService\bitbucket\automated-tests\WebNTRApp\WebNTRAppCore\obj\Debug\WebNTRAppCore.pdb
